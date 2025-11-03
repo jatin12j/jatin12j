@@ -44,6 +44,20 @@
 
 ---
 
+### 🏆 Certifications
+
+| Certificate | Organization | Date |
+|------------|-------------|------|
+| 🌐 Web Responsive Design | FreeCodeCamp | Oct 2023 |
+| 📊 Google Analytics 4 | Google | Oct 2023 |
+| ☁️ Cloud Computing | NPTEL | Apr 2025 |
+| ☕ Java Programming | Iamneo | May 2025 |
+| 🧩 Data Structures & Algorithms | Iamneo | Dec 2024 |
+| 🤖 Oracle Cloud Infrastructure AI Foundations | Oracle | 2025 |
+
+---
+
+
 ### 🚀 Featured Projects
 
 | Project | Tech | Live |
