@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">⚡ Jatin Goyal</h1>
 
-<!--
-**jatin12j/jatin12j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=0AE7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;DSA+%2B+LeetCode+Practitioner;Competitive+Programmer;Tech+Explorer;Future+Software+Engineer">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🚀 Full-Stack MERN Developer  
+- 💡 Strong DSA & Problem Solving (Daily LeetCode)
+- 🎯 Goal: Crack top tech company & go abroad  
+- 🧠 Learning Cloud, System Design & Advanced MERN  
+- 🤝 Open for Internships & Projects  
+
+---
+
+### 🧠 Tech Stack
+
+**Frontend**  
+![React](https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap)
+
+**Backend & Database**  
+![NodeJS](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php)
+
+**Languages**  
+![Languages](https://skillicons.dev/icons?i=cpp,java,python)
+
+**Tools**  
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jatin12j&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=jatin12j&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin12j&bg_color=000000&color=0AE7FF&line=00ffea&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Tech | Live |
+|--------|------|------|
+| ✅ MERN Ecommerce App | MERN | Coming Soon |
+| ✅ Sudoku Solver | C++ + HTML + CSS + JS | [Repo](#) |
+| ✅ Portfolio Website | React + Tailwind | Coming Soon |
+| ✅ Healthcare Management System | PHP + MySQL | Coming Soon |
+
+---
+
+### 🔗 Connect With Me
+
+📌 **LinkedIn:** https://www.linkedin.com/in/jatin-g23/  
+📬 **Email:** jatin.goyal23@lpu.in  
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jatin12j&style=for-the-badge&color=0AE7FF">
+</p>
