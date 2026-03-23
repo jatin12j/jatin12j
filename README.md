@@ -1,143 +1,123 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0AE7FF&time_animation=false&height=280&section=header&text=Jatin%20Goyal&fontSize=90&fontAlignY=35&desc=Full-Stack%20Alchemist%20%7C%20System%20Architect%20%7C%20Competitive%20Programmer&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
-</p>
-
-<!-- Glowing Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-# 💻 System Diagnostics & Hacker Profile
-
-<table align="center" width="100%" border="0">
-  <tr>
-    <td width="55%" valign="top">
-      <h3 align="center">Whoami</h3>
-      <pre><code>const jatin = {
-  status: "Active and Coding",
-  expertise: ["MERN Stack", "C++", "DSA"],
-  architecting: "Algorithms & Cloud Deployments",
-  focus: "Optimization & High Performance",
-  location: "India",
-  contact: "jatin.goyal23@lpu.in"
-};
-
-jatin.executeGoal("Crack Top Tech");</code></pre>
-      <div align="center">
-        <a href="https://www.linkedin.com/in/jatin-g23/">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        <a href="https://github.com/jatin12j">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="mailto:jatin.goyal23@lpu.in">
-          <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-      </div>
-    </td>
-    <td width="45%" valign="top" align="center">
-      <h3>Terminal Output</h3>
-      <br>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0AE7FF&center=true&vCenter=true&width=400&lines=Building+Scalable+Applications;Optimizing+Runtime+Systems;Designing+Cloud+Architectures;Solving+Complex+DSA+Problems" />
-      <br><br><br>
-      <img src="https://komarev.com/ghpvc/?username=jatin12j&style=for-the-badge&color=0AE7FF&label=DASHBOARD+VIEWS" alt="Views"/>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-# ⚔️ Tech Arsenal Matrix
-
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🌐 Web Core</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts" /><br><br>
-      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css" />
-    </td>
-    <td align="center" width="33%">
-      <h3>⚙️ Engine Room</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" /><br><br>
-      <img src="https://skillicons.dev/icons?i=mongodb,php,aws" />
-    </td>
-    <td align="center" width="33%">
-      <h3>🛠️ Tooling & Superpowers</h3>
-      <img src="https://skillicons.dev/icons?i=java,cpp,python" /><br><br>
-      <img src="https://skillicons.dev/icons?i=git,docker,linux,postman" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-# 📊 Telemetry & Network Activity
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=jatin12j&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatin12j&bg_color=1a1b27&color=0AE7FF&line=0AE7FF&point=ffffff&area=true&hide_border=true" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://streak-stats.demolab.com?user=jatin12j&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin12j&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="100%" />
-      <br><br>
-      <h3 align="center">🏆 Hall of Achievements</h3>
-      <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=jatin12j&theme=tokyonight&margin-w=5&margin-h=5&column=3&no-bg=true&no-frame=true" width="100%" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-# 🧠 LeetCode Metrics & Shipment Logs
-
-<table width="100%">
-  <tr>
-    <td width="45%" valign="top">
-      <img src="https://leetcard.jacoblin.cool/jatin12j?theme=tokyonight&font=Fira%20Code&ext=activity" width="100%" />
-    </td>
-    <td width="55%" valign="top">
-      <h3>🚀 Significant Shipments</h3>
-      <ul>
-        <li><b>MERN Ecommerce Hub:</b> End-to-end fullstack platform.</li>
-        <li><b>Algorithmic Sudoku Solver:</b> Core C++ performance engine.</li>
-        <li><b>Health Data Management:</b> PHP + MySQL Secure layer.</li>
-      </ul>
-      <br>
-      <h3>🏅 Advanced Certifications</h3>
-      <ul>
-        <li>Oracle Cloud AI Foundations <i>(2025)</i></li>
-        <li>Data Structs & Algo - Iamneo <i>(2024)</i></li>
-        <li>Java Programming - Iamneo <i>(2025)</i></li>
-        <li>Cloud Computing - NPTEL <i>(2025)</i></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-# 🐍 Activity Grid Overdrive
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jatin12j/jatin12j/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jatin%20Goyal&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20MERN%20Developer%20•%20DSA&descAlignY=60" width="100%" />
+</div> 
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=33C1FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Web+Applications;Optimizing+Data+Structures;Turning+Ideas+Into+Production+Code" />
 </div>
 
-<br><br>
+---
+
+### Full Stack Developer | MERN | Competitive Programmer
+
+<img align="right" alt="" height="200"
+src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
+
+I’m a **Full Stack Developer** who loves building  
+scalable web apps, clean UIs, and robust backend systems.
+- 💻 Full-stack web development (MERN & modern web)
+- 🧩 Data Structures & Algorithms
+- ⚙️ Backend logic & REST APIs
+- 🧠 Problem solving & optimization
+- ☁️ Cloud Computing & System Design
+
+<br clear="right"/>
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
-  <img src="https://forthebadge.com/images/badges/0-percent-bug-free.svg" />
+<a href="mailto:jatin.goyal23@lpu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jatin-g23/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/jatin12j"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/jatin12j/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
+
+---
+
+## 🚀 What I’m Doing & How I Think
+
+<p>
+🔭 Building scalable MERN applications <br/>
+🌱 Deep diving into Data Structures & Algorithms <br/>
+⚡ Cloud Computing & System Design Exploration <br/>
+🧠 Clean code > clever hacks <br/>
+🎯 Optimization is not optional <br/>
+</p>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=jatin12j&theme=tokyonight" width="50%">
+</div>
+<br/>
+
+---
+
+##  TechStack
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90" alt="HTML"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="90" alt="CSS"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="90" alt="JavaScript"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90" alt="React"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="90" alt="Tailwind"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="90" alt="NodeJS"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="90" alt="Express"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="90" alt="MongoDB"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="90" alt="PostgreSQL"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="90" alt="Git"/>
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="90" alt="GitHub"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="90" alt="Docker"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
+<img src="https://skillicons.dev/icons?i=cpp" width="70" alt="C++"/>
+<img src="https://skillicons.dev/icons?i=java" width="70" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=python" width="70" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=postman" width="70" alt="Postman"/>
+</div>
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jatin12j&style=flat-square&color=33C1FF&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+---
+
+<!-- Activity Graph -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jatin12j&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+<!-- Contribution Snake -->
+<picture style="display:block; width:100%;">
+  <img
+    src="https://raw.githubusercontent.com/jatin12j/jatin12j/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    style="width:100%;"
+  />
+</picture>
+
+---
+<!-- Divider GIF -->
+<p align="center">
+  <img 
+    src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b"
+    width="100%"
+    alt="Divider Animation"
+  />
+</p>
+
+<!-- Quote -->
+<p align="center">
+  <em>
+    “Quiet nights, loud thoughts — turning ideas into code, one commit at a time.”
+  </em>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=14&section=footer"
+    width="100%"
+    alt="Footer"
+  />
 </p>
