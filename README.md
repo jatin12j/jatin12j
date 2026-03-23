@@ -1,34 +1,37 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jatin%20Goyal&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20MERN%20Developer%20•%20DSA&descAlignY=60" width="100%" />
-</div> 
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=33C1FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Web+Applications;Optimizing+Data+Structures;Turning+Ideas+Into+Production+Code" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jatin%20Goyal&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20MERN%20&descAlignY=60" width="100%" />
+</div> 
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=33C1FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Web+Applications;Designing+Clean+User+Interfaces;Turning+Ideas+Into+Production+Code" />
 </div>
 
 ---
 
-### Full Stack Developer | MERN | Competitive Programmer
+### Full Stack Developer | MERN | UI/UX Focused
 
 <img align="right" alt="" height="200"
 src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
 
 I’m a **Full Stack Developer** who loves building  
-scalable web apps, clean UIs, and robust backend systems.
+scalable web apps, clean UIs, and solid backend systems.
 - 💻 Full-stack web development (MERN & modern web)
-- 🧩 Data Structures & Algorithms
+- 🎨 UI/UX & clean design systems
 - ⚙️ Backend logic & REST APIs
 - 🧠 Problem solving & optimization
-- ☁️ Cloud Computing & System Design
+- 🤝 Open-source & continuous learning
 
 <br clear="right"/>
 <p align="center">
 <a href="mailto:jatin.goyal23@lpu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/jatin-g23/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/jatin12j"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jatin-g23"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/u/jatin12j/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://codolio.com/profile/jatin12j"><img src="https://img.shields.io/badge/Codolio-2B2D42?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -37,10 +40,10 @@ scalable web apps, clean UIs, and robust backend systems.
 
 <p>
 🔭 Building scalable MERN applications <br/>
-🌱 Deep diving into Data Structures & Algorithms <br/>
-⚡ Cloud Computing & System Design Exploration <br/>
+🌱 Docker, AWS & Cloud workflows <br/>
+⚡ Next.js & performance optimization <br/>
 🧠 Clean code > clever hacks <br/>
-🎯 Optimization is not optional <br/>
+🎯 UX is not optional <br/>
 </p>
 
 <div align="center">
@@ -65,18 +68,21 @@ scalable web apps, clean UIs, and robust backend systems.
 <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="90" alt="GitHub"/>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="90" alt="Docker"/>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
+<img src="https://skillicons.dev/icons?i=c" width="70" alt="C"/>
 <img src="https://skillicons.dev/icons?i=cpp" width="70" alt="C++"/>
 <img src="https://skillicons.dev/icons?i=java" width="70" alt="Java"/>
-<img src="https://skillicons.dev/icons?i=python" width="70" alt="Python"/>
 <img src="https://skillicons.dev/icons?i=postman" width="70" alt="Postman"/>
 </div>
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jatin12j&style=flat-square&color=33C1FF&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
 
 ---
+## 🧩 Holopin Badges
+
+<p align="center">
+  
+[![Holopin](https://holopin.me/jatin12j)](https://holopin.io/@jatin12j)
+</p>
 
 <!-- Activity Graph -->
 <p align="center">
@@ -89,6 +95,14 @@ scalable web apps, clean UIs, and robust backend systems.
 
 <!-- Contribution Snake -->
 <picture style="display:block; width:100%;">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jatin12j/jatin12j/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jatin12j/jatin12j/output/github-contribution-grid-snake.svg"
+  />
   <img
     src="https://raw.githubusercontent.com/jatin12j/jatin12j/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
