@@ -30,8 +30,7 @@ scalable web apps, clean UIs, and solid backend systems.
 <p align="center">
 <a href="mailto:jatin.goyal23@lpu.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jatin-g23"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/jatin12j/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://codolio.com/profile/jatin12j"><img src="https://img.shields.io/badge/Codolio-2B2D42?style=for-the-badge"/></a>
+
 </p>
 
 ---
