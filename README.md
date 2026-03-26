@@ -93,21 +93,7 @@ scalable web apps, clean UIs, and solid backend systems.
 </p>
 
 <!-- Contribution Snake -->
-<picture style="display:block; width:100%;">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/jatin12j/jatin12j/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/jatin12j/jatin12j/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/jatin12j/jatin12j/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    style="width:100%;"
-  />
-</picture>
+<img src="https://raw.githubusercontent.com/jatin12j/jatin12j/output/github-contribution-grid-snake.svg" />
 
 ---
 <!-- Divider GIF -->
